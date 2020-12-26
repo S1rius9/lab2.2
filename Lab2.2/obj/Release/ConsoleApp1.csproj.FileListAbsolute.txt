@@ -1,0 +1,13 @@
+C:\MVS\ConsoleApp1\obj\Release\ConsoleApp1.csprojAssemblyReference.cache
+C:\MVS\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\MVS\ConsoleApp1\bin\Release\Lib.dll
+C:\MVS\ConsoleApp1\bin\Release\Lib2-2-1.dll
+C:\MVS\ConsoleApp1\bin\Release\Lib2-2-2.dll
+C:\MVS\ConsoleApp1\bin\Release\Lib2-2-3-1.dll
+C:\MVS\ConsoleApp1\bin\Release\Lib2-2-3-2.dll
+C:\MVS\ConsoleApp1\bin\Release\Lib2-2-3.dll
+C:\MVS\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\MVS\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\MVS\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\MVS\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\MVS\ConsoleApp1\obj\Release\ConsoleApp1.pdb

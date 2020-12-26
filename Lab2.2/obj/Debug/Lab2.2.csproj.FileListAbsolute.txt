@@ -1,0 +1,12 @@
+C:\Users\Lexus\Desktop\Prog\Lab2.2AS\bin\Debug\Lib.dll
+C:\Users\Lexus\Desktop\Prog\Lab2.2AS\bin\Debug\Lib2-2-1.dll
+C:\Users\Lexus\Desktop\Prog\Lab2.2AS\bin\Debug\Lib2-2-2.dll
+C:\Users\Lexus\Desktop\Prog\Lab2.2AS\bin\Debug\Lib2-2-3-1.dll
+C:\Users\Lexus\Desktop\Prog\Lab2.2AS\bin\Debug\Lib2-2-3-2.dll
+C:\Users\Lexus\Desktop\Prog\Lab2.2AS\bin\Debug\Lib2-2-3.dll
+C:\Users\Lexus\Desktop\Prog\Lab2.2AS\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Lexus\Desktop\Prog\Lab2.2AS\bin\Debug\ConsoleApp1.exe
+C:\Users\Lexus\Desktop\Prog\Lab2.2AS\bin\Debug\ConsoleApp1.pdb
+C:\Users\Lexus\Desktop\Prog\Lab2.2AS\obj\Debug\Lab2.2.csprojAssemblyReference.cache
+C:\Users\Lexus\Desktop\Prog\Lab2.2AS\obj\Debug\ConsoleApp1.exe
+C:\Users\Lexus\Desktop\Prog\Lab2.2AS\obj\Debug\ConsoleApp1.pdb
